@@ -1,0 +1,5 @@
+## ⚙️ Requirements
+
+- C++ compiler (g++ recommended)
+- Windows / Linux / Mac terminal
+- Basic knowledge of CLI
